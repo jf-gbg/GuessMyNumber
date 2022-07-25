@@ -1,16 +1,18 @@
 #include <iostream>
+#include <time.h>
+using std::srand;
 using std::cout;
 using std::cin;
 
 int main() {
+    srand(time(NULL));
     int guess = 0;
-    int answer = 7;
-    bool continuePlaying = true;
+    int answer = rand() % 10;
 
-    cout << "I am thinking of a number, try to guess what it is. "
+    cout << "I am thinking of a number between 1 and 10, try to guess what it is. "
     << '\n'<< "Enter your guess: " << '\n';
 
-
+    bool continuePlaying = true;
     while (continuePlaying)
     {
         cin >> guess;
