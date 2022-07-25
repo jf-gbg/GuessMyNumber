@@ -1,0 +1,3 @@
+C:/Users/malmm/OneDrive/Documents/Programming/C++/GuessMyNumber/cmake-build-debug/CMakeFiles/GuessMyNumber.dir
+C:/Users/malmm/OneDrive/Documents/Programming/C++/GuessMyNumber/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/malmm/OneDrive/Documents/Programming/C++/GuessMyNumber/cmake-build-debug/CMakeFiles/rebuild_cache.dir
