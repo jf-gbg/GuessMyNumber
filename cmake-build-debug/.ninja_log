@@ -1,0 +1,11 @@
+# ninja log v5
+1	255	6804415086717989	CMakeFiles/GuessMyNumber.dir/main.cpp.obj	52c8b7a703cba9be
+257	330	6804415087442119	GuessMyNumber.exe	c4383e02e9910844
+3	234	6804415232226995	CMakeFiles/GuessMyNumber.dir/main.cpp.obj	52c8b7a703cba9be
+234	302	6804415232887139	GuessMyNumber.exe	c4383e02e9910844
+2	242	6804418157908152	CMakeFiles/GuessMyNumber.dir/main.cpp.obj	52c8b7a703cba9be
+242	316	6804418158638315	GuessMyNumber.exe	c4383e02e9910844
+2	239	6804418325637891	CMakeFiles/GuessMyNumber.dir/main.cpp.obj	52c8b7a703cba9be
+239	314	6804418326368055	GuessMyNumber.exe	c4383e02e9910844
+3	242	6804421252007902	CMakeFiles/GuessMyNumber.dir/main.cpp.obj	52c8b7a703cba9be
+242	320	6804421252768053	GuessMyNumber.exe	c4383e02e9910844
